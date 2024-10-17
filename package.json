@@ -17,6 +17,7 @@
     "@aptos-labs/ts-sdk": "^1.16.0",
     "@aptos-labs/wallet-adapter-react": "^3.2.0",
     "@ethersproject/units": "^5.7.0",
+    "@fontsource/inter": "^5.1.0",
     "@martianwallet/aptos-wallet-adapter": "^0.0.5",
     "@nextui-org/react": "^2.3.6",
     "@okwallet/aptos-wallet-adapter": "^0.0.7",

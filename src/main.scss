@@ -1,4 +1,6 @@
 /* Box sizing rules */
+@import "@fontsource/inter";
+
 *,
 *::before,
 *::after {
@@ -101,8 +103,9 @@ input[type="number"] {
 
 /* Customize */
 
-/* styles.css */
-/* styles.css */
+body{
+  overflow-x: hidden;
+}
 .gradient-border {
   position: relative;
   display: inline-block;
